@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+}
+
+header {
+    background-color: black;
+    padding: 100px;
+    margin: -19px;
+}
+
+ul{
+    display: flex;
+    margin: 0 0 200px;
+    padding: 0 0 20px;
+}
+
+li {
+    margin: 0  20;
+}
